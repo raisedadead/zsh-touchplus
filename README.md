@@ -2,6 +2,9 @@
 
 > A Zsh plugin to create files with touch including the path!
 
+![pika-1683722300925-1x](https://github.com/raisedadead/zsh-touchplus/assets/1884376/77e2afa7-551e-43d6-9645-e4a7bb0e61f3)
+
+
 ## Installation
 
 ### Zplug
