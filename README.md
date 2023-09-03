@@ -1,38 +1,41 @@
-# touchplus
+# zsh-touchplus
 
 > A Zsh plugin to create files with touch including the path!
 
 ![pika-1683722300925-1x](https://github.com/raisedadead/zsh-touchplus/assets/1884376/77e2afa7-551e-43d6-9645-e4a7bb0e61f3)
-
 
 ## Installation
 
 ### Zplug
 
 ```zsh
-zplug "raisedadead/touchplus"
+zplug "raisedadead/zsh-touchplus"
 ```
 
 ### Antigen
 
 ```zsh
-antigen bundle raisedadead/touchplus
+antigen bundle raisedadead/zsh-touchplus
 ```
 
-### Oh-My-Zsh
+### Oh-My-Zsh (WHY?!!)
+
+```zsh
+git clone https://github.com/raisedadead/zsh-touchplus.git $ZSH_CUSTOM/plugins/zsh-touchplus
+```
 
 ```zsh
 plugins=(
   #...
-  touchplus
+  zsh-touchplus
   )
 ```
 
 ### Manual
 
 ```zsh
-git clone https://github.com/raisedadead/touchplus.git
-source touchplus/touchplus.plugin.zsh
+git clone https://github.com/raisedadead/zsh-touchplus.git
+source zsh-touchplus/touchplus.plugin.zsh
 ```
 
 ## Usage
