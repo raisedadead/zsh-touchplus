@@ -1,3 +1,4 @@
+#!/usr/bin/env zsh
 # touchplus.plugin.zsh
 
 # Override 'touch' command
