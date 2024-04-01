@@ -6,6 +6,15 @@
 
 ## Installation
 
+### zinit
+
+```zsh
+zinit wait lucid for raisedadead/zsh-touchplus
+```
+
+<details>
+<summary>Other Plugin Managers</summary>
+
 ### Zplug
 
 ```zsh
@@ -18,7 +27,7 @@ zplug "raisedadead/zsh-touchplus"
 antigen bundle raisedadead/zsh-touchplus
 ```
 
-### Oh-My-Zsh (WHY?!!)
+### Oh-My-Zsh
 
 ```zsh
 git clone https://github.com/raisedadead/zsh-touchplus.git $ZSH_CUSTOM/plugins/zsh-touchplus
@@ -37,6 +46,8 @@ plugins=(
 git clone https://github.com/raisedadead/zsh-touchplus.git
 source zsh-touchplus/touchplus.plugin.zsh
 ```
+
+</details>
 
 ## Usage
 
