@@ -30,13 +30,13 @@ antigen bundle raisedadead/zsh-touchplus
 ### Oh-My-Zsh
 
 ```zsh
-git clone https://github.com/raisedadead/zsh-touchplus.git $ZSH_CUSTOM/plugins/zsh-touchplus
+git clone https://github.com/raisedadead/zsh-touchplus.git $ZSH_CUSTOM/plugins/touchplus
 ```
 
 ```zsh
 plugins=(
   #...
-  zsh-touchplus
+  touchplus
   )
 ```
 
